@@ -1,0 +1,714 @@
+/***************************************  NO GUTTER **********************************/
+#stacks_in_6_page1.cleanResponse2_L.CR2_Goff {
+	width:50%;
+}
+
+#stacks_in_6_page1.cleanResponse2_R.CR2_Goff {
+	width:50%;
+}
+
+/****************  3 Non ******************/
+#stacks_in_6_page1.CR3_L.CR3_Goff {
+	width:33%;
+}
+
+#stacks_in_6_page1.CR3_R.CR3_Goff {
+	width:33%;
+}
+
+#stacks_in_6_page1.CR3_RS.CR3_Goff {
+	width:33.2%;
+	float:right;
+}
+
+#stacks_in_6_page1.CR3_M.CR3_Goff {
+	margin:0  0% 10px 0%;
+	width:34%;
+}
+
+/****************  4 Non ******************/
+#stacks_in_6_page1.CR4.CR4_Goff{
+	width:25%;
+}
+
+#stacks_in_6_page1.CR4_S.CR4_Goff{
+	width:25%;
+}
+
+#stacks_in_6_page1.CR4_R.CR4_LL2.CR4_S.CR4_Goff{
+	width:25.2%;
+}
+
+#stacks_in_6_page1.CR4_LF.CR4_Goff, #stacks_in_6_page1.CR4_LL.CR4_Goff, #stacks_in_6_page1.CR4_LF2.CR4_Goff {
+	margin: 0 0 10px 0;
+}
+
+#stacks_in_6_page1.CR4_LF.CR4_Goff {
+	margin: 0 0 10px 0;
+}
+
+#stacks_in_6_page1.CR4_LL2.CR4_Goff {
+	margin: 0 0 10px 0;
+}
+
+@media (max-width: 1099px){
+	#stacks_in_6_page1.CR4_R.CR4_LL2.CR4_S.CR4_Goff{
+	float: left;
+	width:25%;
+}
+}
+
+/****************  5 Non ******************/
+#stacks_in_6_page1.CR5.CR5_Goff {
+	width:20%;
+}
+
+#stacks_in_6_page1.CR5_S.CR5_Goff {
+	width:20%;
+}
+
+#stacks_in_6_page1.CR5_R1.CR5_LF.cleanRespone5_Last.CR5_S.CR5_Goff {
+	width:20.3%;
+}
+
+#stacks_in_6_page1.CR5_M.CR5_Goff {
+	margin:0 0 10px 0;
+}
+
+#stacks_in_6_page1.CR5_LF.CR5_Goff, #stacks_in_6_page1.CR5_LL.CR5_Goff, #stacks_in_6_page1.CR5_RF.CR5_Goff, #stacks_in_6_page1.CR5_RL.CR5_Goff{
+	margin: 0 0 10px 0;
+}
+
+#stacks_in_6_page1.cleanRespone5_First.CR5_Goff {
+	margin: 0 0 10px 0;
+}
+
+#stacks_in_6_page1.cleanRespone5_Last.CR5_Goff {
+	margin: 0 0 10px 0;
+}
+
+/****************  6 Non ******************/
+
+#stacks_in_6_page1.CR6.CR6_Goff {
+	width:16.66%;
+}
+
+#stacks_in_6_page1.CR6_S.CR6_Goff {
+	width:16.69%;
+}
+#stacks_in_6_page1.CR6_R1.CR6_LL.CR6_S.CR6_Goff, stacks_in_6_page1.CR6_L1.CR6_LF.CR6_Goff.CR6_S.CR6_Goff  {
+	width:17%;
+}
+
+#stacks_in_6_page1.CR6_M.CR6_Goff {
+	margin:0 0 10px 0;
+}
+
+
+#stacks_in_6_page1.CR6_LF.CR6_Goff, #stacks_in_6_page1.CR6_LL.CR6_Goff, #stacks_in_6_page1.CR6_RF.CR6_Goff, #stacks_in_6_page1.CR6_RL.CR6_Goff{
+	margin: 0 0 10px 0;
+}
+
+#stacks_in_6_page1.CR6_L1.CR6_Goff{
+	margin: 0 0 10px 0;
+}
+
+#stacks_in_6_page1.CR6_R1.CR6_Goff{
+	margin: 0 0 10px 0;
+}
+
+@media (max-width: 1099px){
+	#stacks_in_6_page1.CR6_R1.CR6_LL.CR6_S.CR6_Goff, stacks_in_6_page1.CR6_L1.CR6_LF.CR6_Goff.CR6_S.CR6_Goff  {
+	width:16.6%;
+}
+}
+/***************************************  1 COLUMN **********************************/
+#stacks_in_6_page1.cleanResponse1_L {
+	width:100%;
+	margin: 0 0 10px 0;
+}
+
+
+
+@media (max-width: 800px){
+
+}
+
+
+@media (max-width: 600px){
+	
+	#stacks_in_6_page1.cleanResponse1_L {
+		width:100%;
+		margin:0 0 10 0;
+	}
+		
+	
+}
+
+/***************************************  2 COLUMN **********************************/
+
+#stacks_in_6_page1.cleanResponse2_L {
+	float:left;
+	width:49%;
+	margin: 0 0 10px 0;
+}
+
+#stacks_in_6_page1.cleanResponse2_R {
+	float:right;
+	width:49%;
+	margin: 0 0 10px 0;
+}
+
+
+@media (max-width: 800px){
+
+}
+
+
+@media (max-width: 600px){
+	
+	#stacks_in_6_page1.cleanResponse2_L {
+		width:100%;
+		margin:0 0 10px 0;
+	}
+	
+	#stacks_in_6_page1.cleanResponse2_R {
+		width:100%;
+		margin:0 0 10px 0;
+	}
+	
+	#stacks_in_6_page1.cleanResponse2_L.CR2_Goff {
+		width:100%;
+		margin:0 0 10px 0;
+	}
+	
+	#stacks_in_6_page1.cleanResponse2_R.CR2_Goff {
+		width:100%;
+		margin:0 0 10px 0;
+	}
+}
+
+/***************************************  3 COLUMN **********************************/
+
+
+#stacks_in_6_page1.CR3_L {
+	float:left;
+	width:32%;
+	margin: 0 0 10px 0;
+
+}
+
+#stacks_in_6_page1.CR3_R {
+	float:right;
+	width:32%;
+	margin: 0 0 10px 0;
+}
+
+#stacks_in_6_page1.CR3_M {
+	float: left;
+	margin:0  2% 10px 2%;
+	width:32%;
+}
+
+@media (max-width: 800px){
+	/*  ============ LARGE BOTTOM ================== */
+	#stacks_in_6_page1.CR3_L.cleanResp1 {
+		float: left;
+		width:49%;
+		margin:0 1% 10px 0;
+	}
+	
+	#stacks_in_6_page1.CR3_M.cleanResp1 {
+		float: left;
+		width:49%;
+		margin:0 0 10px 1%;
+	}
+	
+	#stacks_in_6_page1.CR3_R.cleanResp1, #stacks_in_6_page1.CR3_RS.cleanResp1 {
+		float: left;
+		width:100%;
+		margin:0 0 10px 0;
+	}
+	
+	#stacks_in_6_page1.CR3_L.cleanResp1.CR3_Goff {
+		float: left;
+		width:50%;
+		margin:0 0 10px 0;
+	}
+	
+	#stacks_in_6_page1.CR3_M.cleanResp1.CR3_Goff  {
+		float: left;
+		width:50%;
+		margin:0 0 10px 0;
+	}
+	#stacks_in_6_page1.CR3_R.cleanResp1.CR3_Goff {
+		float: left;
+		width:100%;
+		margin:0 0 10px 0;
+	}
+	
+	#stacks_in_6_page1.CR3_RS.cleanResp1.CR3_Goff  {
+		float: left;
+		width:100%;
+		margin:0 0 10px 0;
+	}
+	
+	/*  ============ LARGE TOP ================== */
+	
+	#stacks_in_6_page1.CR3_L.cleanResp2 {
+		float: left;
+		width:100%;
+		margin:0 0 10px 0;
+	}
+	
+	
+	#stacks_in_6_page1.CR3_M.cleanResp2 {
+		float: left;
+		width:49%;
+		margin:0 1% 10px 0;
+	}
+	
+	#stacks_in_6_page1.CR3_R.cleanResp2 {
+		float: left;
+		width:49%;
+		margin:0 0 10px 1%;
+	}
+	#stacks_in_6_page1.CR3_RS.cleanResp2 {
+		float: left;
+		width:49%;
+		margin:0 0 10px 1%;
+	}
+	#stacks_in_6_page1.CR3_L.cleanResp2.CR3_Goff {
+		float: left;
+		width:100%;
+		margin:0 0 10px 0;
+	}
+	
+	
+	#stacks_in_6_page1.CR3_M.cleanResp2.CR3_Goff {
+		float: left;
+		width:50%;
+		margin:0 0 10px 0;
+	}
+	#stacks_in_6_page1.CR3_R.cleanResp2.CR3_Goff {
+		float: left;
+		width:50%;
+		margin:0 0 10px 0;
+	}
+	#stacks_in_6_page1.CR3_RS.cleanResp2.CR3_Goff {
+		float: left;
+		width:50%;
+		margin:0 0 10px 0;
+	}
+	
+	/*  ============ EVEN ================== */
+	
+	#stacks_in_6_page1.CR3_L.cleanResp3.CR3_Goff {
+	}
+	#stacks_in_6_page1.CR3_M.cleanResp3.CR3_Goff {
+	}
+	#stacks_in_6_page1.CR3_R.cleanResp3.CR3_Goff {
+	}
+	#stacks_in_6_page1.CR3_L.cleanResp3.CR3_Goff {
+	}
+	#stacks_in_6_page1.CR3_M.cleanResp3.CR3_Goff {
+	}
+	#stacks_in_6_page1.CR3_R.cleanResp3.CR3_Goff {
+	}
+	
+}
+
+
+
+
+@media (max-width: 600px){
+	
+	#stacks_in_6_page1.CR3_L, #stacks_in_6_page1.CR3_R.cleanResp2, #stacks_in_6_page1.CR3_R, #stacks_in_6_page1.CR3_R.cleanResp1, #stacks_in_6_page1.CR3_RS.cleanResp2, #stacks_in_6_page1.CR3_RS.cleanResp3 {
+		float: left !important;
+		width:100% !important;
+		margin:0 0 10px 0!important;
+	}
+	
+	
+	#stacks_in_6_page1.CR3_RS.CR3_Goff {
+		float: left !important;
+		width:100%!important;
+		margin:0 0 10px 0!important;
+	}
+	#stacks_in_6_page1.CR3_M {
+		float: left !important;
+		width:100%!important;
+		margin:0 0 10px 0!important;
+	}
+	
+	
+}
+
+
+
+/***************************************  4 COLUMN **********************************/
+#stacks_in_6_page1.CR4_L {
+	float:left;
+}
+
+#stacks_in_6_page1.CR4_R {
+	float:left;
+}
+
+#stacks_in_6_page1.CR4{
+	width:23.5%;
+}
+
+#stacks_in_6_page1.CR4_S{
+	width:23.6%;
+}
+
+#stacks_in_6_page1.CR4_LF, #stacks_in_6_page1.CR4_LL, #stacks_in_6_page1.CR4_LF2 {
+	margin: 0 1% 10px 1%;
+}
+
+#stacks_in_6_page1.CR4_LF {
+	margin: 0 1% 10px 0;
+}
+
+#stacks_in_6_page1.CR4_LL2 {
+	margin: 0 0 10px 1%;
+	float: right;
+}
+@media (max-width: 1074px){
+	#stacks_in_6_page1.CR4_S{
+	width:23.5%;
+}
+}
+@media (max-width: 800px){
+	
+	#stacks_in_6_page1.CR4 {
+		width:49%;
+		
+	}
+	
+	#stacks_in_6_page1.CR4_S {
+		width:49%;
+		
+	}
+	#stacks_in_6_page1.CR4_LF {
+		float: left;
+		margin: 0 1% 10px 0 ;
+	}
+	
+	#stacks_in_6_page1.CR4_LL {
+		float: left;
+		margin: 0 0 10px 1% ;
+	}
+	
+	#stacks_in_6_page1.CR4_LF2 {
+		float: left;
+		margin: 0 1% 10px 0 ;
+	}
+	
+	#stacks_in_6_page1.CR4_LL2 {
+		float: left;
+		margin: 0 0 10px 1% ;
+	}
+	
+	#stacks_in_6_page1.CR4_R {
+		float:left;
+	}
+	
+	#stacks_in_6_page1.CR4.CR4_Goff {
+		width:50%;
+		
+	}
+	#stacks_in_6_page1.CR4_S.CR4_Goff, #stacks_in_6_page1.CR4_R.CR4_LL2.CR4_S.CR4_Goff {
+		width:50%;
+		
+	}
+	#stacks_in_6_page1.CR4_LF.CR4_Goff {
+		float: left;
+		margin: 0 0 10px 0 ;
+	}
+	
+	#stacks_in_6_page1.CR4_LL.CR4_Goff {
+		float: left;
+		margin: 0 0 10px 0 ;
+	}
+	
+	#stacks_in_6_page1.CR4_LF2.CR4_Goff {
+		float: left;
+		margin: 0 0 10px 0 ;
+	}
+	
+	#stacks_in_6_page1.CR4_LL2.CR4_Goff {
+		float: left;
+		margin: 0 0 10px 0 ;
+	}
+
+}
+
+
+@media (max-width: 600px){
+	
+	#stacks_in_6_page1.CR4 {
+		width:100%;
+		margin: 0 0 10px 0;
+	}
+	#stacks_in_6_page1.CR4_S {
+		width:100%;
+		margin: 0 0 10px 0;
+	}
+	#stacks_in_6_page1.CR4.CR4_Goff {
+		width:100%;
+		margin: 0 0 10px 0;
+	}
+	#stacks_in_6_page1.CR4_S.CR4_Goff, #stacks_in_6_page1.CR4_R.CR4_LL2.CR4_S.CR4_Goff {
+		width:100%;
+		margin: 0 0 10px 0;
+	}
+	#stacks_in_6_page1.CR4_LF, #stacks_in_6_page1.CR4_LR {
+	}
+	
+}
+
+/***************************************  5 COLUMN **********************************/
+
+
+#stacks_in_6_page1 .CR5_L {
+	float:left;
+}
+
+#stacks_in_6_page1 .CR5_R {
+	float:left;
+}
+
+#stacks_in_6_page1 .CR5 {
+	width:18.4%;
+}
+
+#stacks_in_6_page1.CR5_S {
+	width:18.4%;
+}
+
+#stacks_in_6_page1.CR5_M {
+	float: left;
+	margin:0 1% 10px 1%;
+}
+
+
+#stacks_in_6_page1.CR5_LF, #stacks_in_6_page1.CR5_LL, #stacks_in_6_page1.CR5_RF, #stacks_in_6_page1.CR5_RL{
+	float: left;
+	margin: 0 1% 10px 1%;
+}
+
+#stacks_in_6_page1.cleanRespone5_First {
+	margin: 0 1% 10px 0;
+}
+
+#stacks_in_6_page1.cleanRespone5_Last {
+	float:right;
+	margin: 0 0 10px 1%;
+}
+
+@media (max-width: 800px){
+	
+	#stacks_in_6_page1.CR5, #stacks_in_6_page1.CR5_S {
+		width:49%;
+	}
+	
+	#stacks_in_6_page1.CR5_LF{
+		float: left;
+		margin: 0 1% 10px 0;
+	}
+	
+	#stacks_in_6_page1.CR5_LL{
+		float: left;
+		margin: 0 0 10px 1%;
+	}
+	
+	
+	#stacks_in_6_page1.CR5.cleanRespone5_Last, #stacks_in_6_page1.CR5_S.cleanRespone5_Last{
+		float: left;
+		width: 99.8% ;
+		margin: 0 auto 10px auto;
+	}
+	
+	#stacks_in_6_page1.CR5.CR5_Goff {
+		width:50%;
+	}
+	#stacks_in_6_page1.CR5_S.CR5_Goff {
+		width:50%;
+	}
+	#stacks_in_6_page1.CR5_LF.CR5_Goff{
+		float: left;
+		margin: 0 0 10px 0;
+	}
+	
+	#stacks_in_6_page1.CR5_LL.CR5_Goff{
+		float: left;
+		margin: 0 0 10px 0;
+	}
+	
+	
+	#stacks_in_6_page1.cleanRespone5_Last.CR5_Goff, #stacks_in_6_page1.CR5_R1.CR5_LF.cleanRespone5_Last.CR5_S.CR5_Goff{
+		float: left;
+		width: 100% ;
+		margin: 0 auto 10px auto;
+	}
+
+	/*  ============ LARGE TOP ================== */
+	
+	
+	#stacks_in_6_page1.CR5.cleanResp2, #stacks_in_6_page1.CR5_S.cleanResp2 {
+		width:49%;
+	}
+	
+	#stacks_in_6_page1.CR5_LF.cleanResp2, #stacks_in_6_page1.cleanRespone5_Last.cleanResp2{
+		float: left;
+		margin: 0 0 10px 1%;
+		
+	}
+		
+	#stacks_in_6_page1.CR5_LL.cleanResp2{
+		float: left;
+		margin: 0 1% 10px 0;
+	}
+	
+	#stacks_in_6_page1.CR5.cleanRespone5_First.cleanResp2, #stacks_in_6_page1.CR5_S.cleanRespone5_First.cleanResp2{
+		float: left;
+		width: 99.8%;
+		margin: 0 auto 10px auto;
+	}
+	
+	#stacks_in_6_page1.CR5.cleanResp2.CR5_Goff {
+		width:50%;
+	}
+	#stacks_in_6_page1.CR5_S.cleanResp2.CR5_Goff, #stacks_in_6_page1.CR5_R1.CR5_LF.cleanRespone5_Last.cleanResp2.CR5_S.CR5_Goff {
+		width:50%;
+	}
+	#stacks_in_6_page1.CR5_LF.cleanResp2.CR5_Goff, #stacks_in_6_page1.cleanRespone5_Last.cleanResp2.CR5_Goff{
+		float: left;
+		margin: 0 0 10px 0;
+		
+	}
+		
+	#stacks_in_6_page1.CR5_LL.cleanResp2.CR5_Goff{
+		float: left;
+		margin: 0 0 10px 0;
+	}
+	
+	#stacks_in_6_page1.cleanRespone5_First.cleanResp2.CR5_Goff, #stacks_in_6_page1.cleanRespone5_First.cleanResp2.CR5_S.CR5_Goff{
+		float: left;
+		width: 100%;
+		margin: 0 auto 10px auto;
+	}
+	
+}
+
+
+@media (max-width: 600px){
+	
+	#stacks_in_6_page1.CR5.CR5_LL.cleanResp2, #stacks_in_6_page1.CR5.CR5_LF.cleanResp2, #stacks_in_6_page1.CR5.CR5_LL.cleanResp1, #stacks_in_6_page1.CR5.CR5_LF.cleanResp1, #stacks_in_6_page1.CR5_S.CR5_LL.cleanResp2, #stacks_in_6_page1.CR5_S.CR5_LF.cleanResp2, #stacks_in_6_page1.CR5_S.CR5_LL.cleanResp1, #stacks_in_6_page1.CR5_S.CR5_LF.cleanResp1{
+		width:100%!important;
+		margin: 0 0 10px 0;
+	}
+	
+	#stacks_in_6_page1.CR5.CR5_Goff, #stacks_in_6_page1.CR5_S.CR5_Goff, #%id#.CR5_LL.cleanResp2.CR5_Goff {
+		width:100% !important;
+		margin: 0 0 10px 0;
+	}
+}
+
+
+
+
+/***************************************  6 COLUMN **********************************/
+
+
+#stacks_in_6_page1.CR6_L, #stacks_in_6_page1.CR6_L1 {
+	float:left;
+}
+
+#stacks_in_6_page1.CR6_R, #stacks_in_6_page1.CR6_R1 {
+	float:left;
+}
+
+#stacks_in_6_page1.CR6 {
+	width:15%;
+}
+
+#stacks_in_6_page1.CR6_S {
+	width:15.2%;
+}
+
+#stacks_in_6_page1.CR6_M {
+	float: left; 
+	margin:0 1% 10px 1%;
+}
+
+
+#stacks_in_6_page1.CR6_LF, #stacks_in_6_page1.CR6_LL, #stacks_in_6_page1.CR6_RF, #stacks_in_6_page1.CR6_RL{
+	margin: 0 1% 10px 1%;
+}
+
+#stacks_in_6_page1.CR6_L1{
+	margin: 0 1% 10px 0;
+}
+
+#stacks_in_6_page1.CR6_R1{
+	margin: 0 0 10px 1%;
+}
+
+@media (max-width: 1099px){
+	#stacks_in_6_page1.CR6_S {
+	width:15%;
+}
+}
+
+
+
+@media (max-width: 800px){
+	
+	#stacks_in_6_page1.CR6, #stacks_in_6_page1.CR6_S {
+		width:49%;
+	}
+	
+	#stacks_in_6_page1.CR6_LF{
+		float: left;
+		margin: 0 1% 10px 0;
+	}
+	
+	#stacks_in_6_page1.CR6_LL{
+		float: left;
+		margin: 0 0 10px 1%;
+	}
+	
+	#stacks_in_6_page1.CR6.CR6_Goff, #stacks_in_6_page1.CR6_S.CR6_Goff, #stacks_in_6_page1.CR6_R1.CR6_LL.CR6_S.CR6_Goff, stacks_in_6_page1.CR6_L1.CR6_LF.CR6_S.CR6_Goff  {
+		width:50%;
+	}
+	
+	#stacks_in_6_page1.CR6_LF.CR6_Goff{
+		float: left;
+		margin: 0 0 10px 0;
+	}
+	
+	#stacks_in_6_page1.CR6_LL.CR6_Goff{
+		float: left;
+		margin: 0 0 10px 0;
+	}
+	
+
+	
+}
+
+
+@media (max-width: 600px){
+	
+	#stacks_in_6_page1.CR6, #stacks_in_6_page1.CR6_S{
+		width:100% !important;
+		margin: 0 0 10px 0 !important;
+	}
+	
+	
+}
+
+/* Offsite v1.6.4 Copyright @2010-2012 Joe Workman */
+
